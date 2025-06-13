@@ -5,3 +5,5 @@ npm run dev
 npx ts-node src/scripts/seed-db.ts
 
 npm run build
+
+npm run test:all
